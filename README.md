@@ -13,8 +13,9 @@ To begin, clone this repository to your local machine:
 ```bash
 git clone https://github.com/your-username/CrackMe05-Key-Generator.git
 cd CrackMe05-Key-Generator
-
+```
 ## Usage
 
 ```bash
 py keyGenerator.py
+```
