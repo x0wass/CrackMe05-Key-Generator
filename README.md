@@ -19,3 +19,9 @@ cd CrackMe05-Key-Generator
 ```bash
 py keyGenerator.py
 ```
+
+## Exemple of a generated key
+
+```bash
+0lr6-taPp-v82t-6cb0
+```
